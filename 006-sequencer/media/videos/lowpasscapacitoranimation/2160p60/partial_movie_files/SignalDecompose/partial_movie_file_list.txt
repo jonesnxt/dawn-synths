@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/jones/github/dawn-synths/006-sequencer/media/videos/lowpasscapacitoranimation/2160p60/partial_movie_files/SignalDecompose/3215718966_1668748028_223132457.mp4'
+file 'file:/home/jones/github/dawn-synths/006-sequencer/media/videos/lowpasscapacitoranimation/2160p60/partial_movie_files/SignalDecompose/1370976784_3837998516_1737102991.mp4'
+file 'file:/home/jones/github/dawn-synths/006-sequencer/media/videos/lowpasscapacitoranimation/2160p60/partial_movie_files/SignalDecompose/1370976784_2101078506_3873189.mp4'
+file 'file:/home/jones/github/dawn-synths/006-sequencer/media/videos/lowpasscapacitoranimation/2160p60/partial_movie_files/SignalDecompose/1370976784_1991107181_3251937406.mp4'
+file 'file:/home/jones/github/dawn-synths/006-sequencer/media/videos/lowpasscapacitoranimation/2160p60/partial_movie_files/SignalDecompose/1370976784_3543990294_3895919098.mp4'
+file 'file:/home/jones/github/dawn-synths/006-sequencer/media/videos/lowpasscapacitoranimation/2160p60/partial_movie_files/SignalDecompose/1370976784_4196109748_511730471.mp4'
+file 'file:/home/jones/github/dawn-synths/006-sequencer/media/videos/lowpasscapacitoranimation/2160p60/partial_movie_files/SignalDecompose/1370976784_404967749_2991533068.mp4'
+file 'file:/home/jones/github/dawn-synths/006-sequencer/media/videos/lowpasscapacitoranimation/2160p60/partial_movie_files/SignalDecompose/1370976784_3837998516_23893715.mp4'
